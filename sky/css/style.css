@@ -588,6 +588,9 @@ table {
     .paginator .nav-default {
       display: none; } }
 
+.paginator > a {
+  width: 50%; }
+
 .post-copyright {
   padding: 10px;
   font-size: 16px;
